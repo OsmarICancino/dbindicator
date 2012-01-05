@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   colors.xml
+   SpyTools
+
+   Created by José Manuel Pereira on 19/12/11.
+   Copyright 2011 Ingens Networks. All rights reserved.
+-->
+
+<resources>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+</resources>

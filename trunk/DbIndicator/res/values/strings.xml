@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DbIndicatorActivity!</string>
+    <string name="app_name">DbIndicator</string>
+    <string name="title">Indicador de decibelios</string>
+    <string name="barra">" / "</string>
+    <string name="db">-80 dB</string>
+
+</resources>
